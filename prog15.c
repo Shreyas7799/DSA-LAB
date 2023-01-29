@@ -68,9 +68,4 @@ void Init_HT(struct emp HT[])
                               case 3: exit(0);
                         }
                   }
-             }
-                                            
-                  
-            
-            
-
+            }
